@@ -1,7 +1,7 @@
 how upload at heroku:
 https://stackabuse.com/deploying-a-flask-application-to-heroku
 
-opencv problem:
+opencv problem: https://stackoverflow.com/questions/49469764/how-to-use-opencv-with-heroku
 go to setting of your app 
 add two buildpack 
 1- https://github.com/heroku/heroku-buildpack-apt (as url)
